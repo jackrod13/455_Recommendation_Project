@@ -1,0 +1,106 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\jackp\\OneDrive\\Desktop\\455 Recomendation Project\\backend\\Recomendation\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D3E8E6F5-9592-4C75-83CB-2AB9B57B2123}|Recomendation\\Recomendation.csproj|c:\\users\\jackp\\onedrive\\desktop\\455 recomendation project\\backend\\recomendation\\recomendation\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D3E8E6F5-9592-4C75-83CB-2AB9B57B2123}|Recomendation\\Recomendation.csproj|solutionrelative:recomendation\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D3E8E6F5-9592-4C75-83CB-2AB9B57B2123}|Recomendation\\Recomendation.csproj|c:\\users\\jackp\\onedrive\\desktop\\455 recomendation project\\backend\\recomendation\\recomendation\\models\\recommendationrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D3E8E6F5-9592-4C75-83CB-2AB9B57B2123}|Recomendation\\Recomendation.csproj|solutionrelative:recomendation\\models\\recommendationrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D3E8E6F5-9592-4C75-83CB-2AB9B57B2123}|Recomendation\\Recomendation.csproj|c:\\users\\jackp\\onedrive\\desktop\\455 recomendation project\\backend\\recomendation\\recomendation\\models\\collaborativefiltering.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D3E8E6F5-9592-4C75-83CB-2AB9B57B2123}|Recomendation\\Recomendation.csproj|solutionrelative:recomendation\\models\\collaborativefiltering.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D3E8E6F5-9592-4C75-83CB-2AB9B57B2123}|Recomendation\\Recomendation.csproj|c:\\users\\jackp\\onedrive\\desktop\\455 recomendation project\\backend\\recomendation\\recomendation\\controllers\\recommendationscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D3E8E6F5-9592-4C75-83CB-2AB9B57B2123}|Recomendation\\Recomendation.csproj|solutionrelative:recomendation\\controllers\\recommendationscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 39,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\jackp\\OneDrive\\Desktop\\455 Recomendation Project\\backend\\Recomendation\\Recomendation\\Program.cs",
+              "RelativeDocumentMoniker": "Recomendation\\Program.cs",
+              "ToolTip": "C:\\Users\\jackp\\OneDrive\\Desktop\\455 Recomendation Project\\backend\\Recomendation\\Recomendation\\Program.cs",
+              "RelativeToolTip": "Recomendation\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAC0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-05T16:20:08.757Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "RecommendationRequest.cs",
+              "DocumentMoniker": "C:\\Users\\jackp\\OneDrive\\Desktop\\455 Recomendation Project\\backend\\Recomendation\\Recomendation\\Models\\RecommendationRequest.cs",
+              "RelativeDocumentMoniker": "Recomendation\\Models\\RecommendationRequest.cs",
+              "ToolTip": "C:\\Users\\jackp\\OneDrive\\Desktop\\455 Recomendation Project\\backend\\Recomendation\\Recomendation\\Models\\RecommendationRequest.cs",
+              "RelativeToolTip": "Recomendation\\Models\\RecommendationRequest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-05T16:16:36.958Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CollaborativeFiltering.cs",
+              "DocumentMoniker": "C:\\Users\\jackp\\OneDrive\\Desktop\\455 Recomendation Project\\backend\\Recomendation\\Recomendation\\Models\\CollaborativeFiltering.cs",
+              "RelativeDocumentMoniker": "Recomendation\\Models\\CollaborativeFiltering.cs",
+              "ToolTip": "C:\\Users\\jackp\\OneDrive\\Desktop\\455 Recomendation Project\\backend\\Recomendation\\Recomendation\\Models\\CollaborativeFiltering.cs",
+              "RelativeToolTip": "Recomendation\\Models\\CollaborativeFiltering.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-05T16:16:03.512Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "RecommendationsController.cs",
+              "DocumentMoniker": "C:\\Users\\jackp\\OneDrive\\Desktop\\455 Recomendation Project\\backend\\Recomendation\\Recomendation\\Controllers\\RecommendationsController.cs",
+              "RelativeDocumentMoniker": "Recomendation\\Controllers\\RecommendationsController.cs",
+              "ToolTip": "C:\\Users\\jackp\\OneDrive\\Desktop\\455 Recomendation Project\\backend\\Recomendation\\Recomendation\\Controllers\\RecommendationsController.cs",
+              "RelativeToolTip": "Recomendation\\Controllers\\RecommendationsController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-05T16:13:44.147Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

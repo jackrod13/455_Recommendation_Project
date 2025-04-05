@@ -1,0 +1,86 @@
+﻿## Build results
+bin/
+obj/
+
+## User-specific files
+*.user
+*.rsuser
+*.suo
+*.userosscache
+*.sln.docstates
+
+## Rider
+.idea/
+
+## VS Code
+.vscode/
+
+## Mac/Linux system files
+.DS_Store
+Thumbs.db
+
+## ASP.NET Secrets
+secrets.json
+
+## Published files
+wwwroot/dist/
+wwwroot/node_modules/
+
+## Logs
+*.log
+logs/
+*.tlog
+
+## .NET-specific
+project.lock.json
+project.fragment.lock.json
+artifacts/
+.nuget/
+
+# Global NuGet packages, cache and temp files
+~$*
+*.nupkg
+*.snupkg
+*.vspscc
+*.vssscc
+*.psess
+*.vsp
+*.vsmdi
+*.testsettings
+*.cache
+*.ilk
+*.iobj
+*.ipdb
+*.pdb
+
+## LocalDB files
+*.mdf
+*.ldf
+
+## Entity Framework Migrations (optional)
+Migrations/
+
+## Node.js (if you're bundling JS or CSS in your backend)
+node_modules/
+npm-debug.log
+yarn-debug.log
+yarn-error.log
+package-lock.json
+
+## Environment files
+.env
+.env.*
+
+## JetBrains Rider
+.idea/
+
+## Visual Studio workspace
+.vs/
+
+
+
+# Ignore all CSV files in the python folder (correct path)
+backend/Recomendations/Recomendations/python/*.csv
+
+# Optional: Ignore CSVs project-wide
+*.csv
